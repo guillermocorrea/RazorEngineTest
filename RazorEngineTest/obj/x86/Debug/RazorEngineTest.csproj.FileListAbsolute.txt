@@ -1,0 +1,9 @@
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Debug\RazorEngineTest.exe
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Debug\RazorEngineTest.pdb
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Debug\RazorEngine.dll
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Debug\System.Web.Razor.dll
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\obj\x86\Debug\RazorEngineTest.exe
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\obj\x86\Debug\RazorEngineTest.pdb
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Debug\RazorGenerator.Templating.dll
+c:\users\guillermo\documents\visual studio 2010\Projects\RazorEngineTest\RazorEngineTest\bin\Debug\templates\template.cshtml
